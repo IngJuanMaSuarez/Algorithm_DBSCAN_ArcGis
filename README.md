@@ -1,3 +1,11 @@
+# Algoritmo DBSCAN ArcGis
+Toolbox para ArcGIS con el algoritmo de minería de datos espaciales DBSCAN
+
+Desde ArcGis en el menú ArcToolbox se agrega el Toolbox para su ejecución.
+La herramienta agrega un nuevo atributo en el SHP con el numero de cluster para cada punto.
+
+-----------------------------------------------------------------------------------------
+
 # Algorithm DBSCAN ArcGis
 Toolbox for ArcGIS with the algorithm DBSCAN of Spatial Data Mining
 
