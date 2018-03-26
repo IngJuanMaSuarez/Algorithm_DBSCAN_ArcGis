@@ -6,6 +6,29 @@ La herramienta agrega un nuevo atributo en el SHP con el numero de cluster para 
 
 <br>
 
+## Contenido
+
+- [Introducción](#introducción)
+- [Screenshots](#screenshots)
+- [Más Detalles del Proyecto](#más-detalles-del-proyecto)
+- [Redes Sociales](#redes-sociales)
+
+<br>
+
+## Introducción
+
+El presente proyecto busca analizar el comportamiento de los hurtos a personas que afectan la localidad Los Mártires de la ciudad de Bogotá, haciendo uso de algoritmos de agrupamiento de minería de datos espaciales y apoyado en una infraestructura de datos espacial, teniendo en cuenta variables como cuadrante de policía, mes, día del mes, día de la semana, hora, lugar de ocurrencia del delito, sexo y edad de la víctima; de tal forma que se logre realizar diferentes tipos de mapas del delito, y permita a las autoridades implementar estrategias para predecir el modo que opera, como se mueve, como se financia y lograr combatir con mayor eficacia y eficiencia el delito. 
+
+A lo largo del proyecto, se trabajaron los algoritmos de agrupamiento de minería de datos espaciales K-Means y DBSCAN, el primero se usó para establecer la ubicación óptima de cada estación de policía teniendo en cuenta la ubicación y distribución de los delitos, y el segundo para hallar las zonas con mayor actividad delincuencial. Estos dos en conjunto, sobre la Infraestructura de Datos Espaciales de Bogotá nos permitió construir los modelos y mapas temáticos del delito de la localidad Los Mártires, muchos de estos modelos fueron realizados filtrando la información por diferentes variables para tener un análisis más preciso. 
+
+Se trabajó con software libre para la elaboración de este proyecto.
+
+<br>
+
+## Screenshots
+
+<br>
+
 ## Más Detalles del Proyecto
 
 - **[`Documento PDF`](https://www.academia.edu/36259000/Caracterizaci%C3%B3n_de_los_Hurtos_a_Personas_que_Afectan_la_Localidad_los_M%C3%A1rtires_de_la_Ciudad_de_Bogot%C3%A1_Mediante_la_Implementaci%C3%B3n_de_Algoritmos_de_Agrupamiento_de_Miner%C3%ADa_de_Datos_Espaciales_y_Apoyado_en_una_Infraestructura_de_Datos_Espacial)**
