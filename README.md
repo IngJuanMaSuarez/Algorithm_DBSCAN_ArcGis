@@ -27,6 +27,30 @@ Se trabajó con software libre para la elaboración de este proyecto.
 
 ## Screenshots
 
+<table>
+    <tr>
+        <td>
+            <img alt="Instalacion" src="Images/1.%20Datos%20de%20Entrada.png">
+        </td>
+        <td>
+            <img alt="API Google Maps" src="Images/2.%20Ventana%20Inicial%20DBSCAN.png">
+        </td>
+        <td>
+            <img alt="POI Visibles" src="Images/3.%20Archivos%20de%20Resultado.png">
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td>
+            <img alt="API Google Maps" src="Images/4.%20Visualizacion%20de%20Resultados.png">
+        </td>
+        <td>
+            <img alt="POI Visibles" src="Images/5.%20Clasificacion%20Cluster.png">
+        </td>
+    </tr>
+</table>
+
 <br>
 
 ## Más Detalles del Proyecto
