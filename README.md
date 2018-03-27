@@ -21,8 +21,6 @@ El presente proyecto busca analizar el comportamiento de los hurtos a personas q
 
 A lo largo del proyecto, se trabajaron los algoritmos de agrupamiento de minería de datos espaciales K-Means y DBSCAN, el primero se usó para establecer la ubicación óptima de cada estación de policía teniendo en cuenta la ubicación y distribución de los delitos, y el segundo para hallar las zonas con mayor actividad delincuencial. Estos dos en conjunto, sobre la Infraestructura de Datos Espaciales de Bogotá nos permitió construir los modelos y mapas temáticos del delito de la localidad Los Mártires, muchos de estos modelos fueron realizados filtrando la información por diferentes variables para tener un análisis más preciso. 
 
-Se trabajó con software libre para la elaboración de este proyecto.
-
 <br>
 
 ## Screenshots
