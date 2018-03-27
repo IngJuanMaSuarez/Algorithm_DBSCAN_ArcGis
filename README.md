@@ -2,7 +2,7 @@
 Toolbox para ArcGIS con el algoritmo de minería de datos espaciales DBSCAN
 
 Desde ArcGis en el menú ArcToolbox se agrega el Toolbox para su ejecución.
-La herramienta agrega un nuevo atributo en el SHP con el numero de cluster para cada punto.
+Los datos de entrada son un texto plano y la herramienta crea un SHP con un atributo correspondiente al numero de cluster de cada punto.
 
 <br>
 
