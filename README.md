@@ -55,6 +55,7 @@ A lo largo del proyecto, se trabajaron los algoritmos de agrupamiento de minerí
 
 - **[`Documento PDF`](https://www.academia.edu/36259000/Caracterizaci%C3%B3n_de_los_Hurtos_a_Personas_que_Afectan_la_Localidad_los_M%C3%A1rtires_de_la_Ciudad_de_Bogot%C3%A1_Mediante_la_Implementaci%C3%B3n_de_Algoritmos_de_Agrupamiento_de_Miner%C3%ADa_de_Datos_Espaciales_y_Apoyado_en_una_Infraestructura_de_Datos_Espacial)**
 - **[`Presentacion PPT`](https://www.academia.edu/36258999/Caracterizaci%C3%B3n_de_los_Hurtos_a_Personas_que_Afectan_la_Localidad_los_M%C3%A1rtires_de_la_Ciudad_de_Bogot%C3%A1_Mediante_la_Implementaci%C3%B3n_de_Algoritmos_de_Agrupamiento_de_Miner%C3%ADa_de_Datos_Espaciales_y_Apoyado_en_una_Infraestructura_de_Datos_Espacial)**
+- **[`Video YouTube de la Presentación PPT`](https://www.youtube.com/watch?v=5Zg4t8k_Xuc&feature=youtu.be)**
 
 <br>
 
@@ -63,6 +64,7 @@ A lo largo del proyecto, se trabajaron los algoritmos de agrupamiento de minerí
 - **[`Twitter`](https://twitter.com/IngJuanMaSuarez)**
 - **[`Linkedin`](https://linkedin.com/in/IngJuanMaSuarez)**
 - **[`Academia`](https://udistrital.academia.edu/IngJuanMaSuarez)**
+- **[`YouTube`](https://www.youtube.com/channel/UC4CNTt2aXvMKmxNXQFtTrAA)**
 
 <br>
 
